@@ -1,0 +1,27 @@
+_repo: Humorists-of-the-Pencil-Phil-May_62969
+_version: 0.0.1
+creator:
+  author:
+    agent_name: May, Phil
+    alias: Summers, Charlie
+    birthdate: 1864
+    deathdate: 1903
+    gutenberg_agent_id: '37403'
+    url: http://www.gutenberg.org/2009/agents/37403
+    wikipedia: http://en.wikipedia.org/wiki/Phil_May_%28caricaturist%29
+description: ''
+gutenberg_issued: '2020-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NC'
+- !lcsh 'Caricatures and cartoons -- Great Britain'
+- !lcsh 'English wit and humor, Pictorial'
+- GITenberg
+title: 'Humorists of the Pencil: Phil May'
+url: http://www.gutenberg.org/ebooks/62969
